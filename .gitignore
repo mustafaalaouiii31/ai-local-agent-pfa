@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+data/uploads/
+data/documents/
+data/chat_history.json
+database/
+documents/
+.env
+.DS_Store
+*.log

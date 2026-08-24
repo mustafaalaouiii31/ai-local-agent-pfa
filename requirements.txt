@@ -1,0 +1,11 @@
+streamlit
+chromadb
+ollama
+sentence-transformers
+langchain-text-splitters
+openpyxl
+python-docx
+python-pptx
+PyMuPDF
+easyocr
+Pillow
