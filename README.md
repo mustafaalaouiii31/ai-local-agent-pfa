@@ -1,4 +1,4 @@
-# ZTE AI Local Agent
+# AI Local Agent
 
 Assistant IA local d'aide à la décision, construit avec **Streamlit**. L'application communique avec un `AgentOrchestrator` qui route chaque requête entre :
 
